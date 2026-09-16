@@ -1,60 +1,166 @@
-# Olá, eu sou o Luiz Eduardo! 👋
+<div align="center">
+  <h1 align="center" style="color:#00FF41;">LUIZ EDUARDO</h1>
+  <p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Software+Developer;Stack:+Python,+React,+TypeScript;Data+Science+%26+AI;[STATUS]:+Online+and+Coding...;Code.+Create.+Automate.+Evolve." alt="Typing Animation" />
+  </p>
+</div>
 
-### Desenvolvedor de Software | Dados & IA | Visão Híbrida (Gestão + Tech)
+<br>
 
-Com mais de uma década de experiência em gestão e operações, decidi levar minha busca por eficiência para o código. Atualmente, atuo como Assistente de Desenvolvimento de Software na ISATECH, unindo minha base em Administração com minha paixão por tecnologia para transformar problemas complexos em soluções automatizadas.
+<h3><span style="color:#FF003C;">01</span> // IDENTIDADE</h3>
 
-- 🔭 Atualmente trabalhando com **Desenvolvimento Evolutivo de Sistemas e Banco de Dados (PostgreSQL)**
-- 🌱 Estudando **Ciência de Dados e IA (UNINTER)** e **Análise e Desenvolvimento de Sistemas (Estácio)**
-- 🚀 Foco técnico: **Python, Streamlit, Automação, Análise Preditiva e ecossistema React**
-- ⚡ Curiosidade: Apaixonado pela Indústria 4.0 e transformação digital no coração da Amazônia.
+```typescript
+const developer = {
+  name: "Luiz Eduardo",
+  role: "Development Assistant",
+  stack: ["Python", "JavaScript", "TypeScript", "React", "PostgreSQL"],
+  learning: "Data Science, AI and Systems Development",
+  focus: "Software Development & Data Analysis",
+  mindset: "Code. Analyze. Automate. Evolve."
+};
+```
 
----
 
-### 🛠️ Tecnologias e Ferramentas
-
-**Dados & Back-end:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-
-**Front-end:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Ferramentas & DevOps:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 🚀 Projetos em Destaque
-
-*   **Dashboard Interativo de Análise de Dados**: Visualização de dados e análise de carreira utilizando Python e Streamlit.
-*   **Calculadora de Funções e Gráficos**: Aplicação interativa construída com React, TypeScript, Tailwind CSS e Chart.js.
-*   **Jogo de Adivinhação de Número Secreto**: Aplicação web desenvolvida com JavaScript e deploy na Vercel.
-
-🔗 **[Clique aqui para ver todos os meus repositórios e explorar meus códigos](https://github.com/O-Edu-Rocha?tab=repositories)**
-
----
-
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O-Edu-Rocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Edu-Rocha&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
-</p>
+<h3><span style="color:#FF003C;">02</span> // TECH_STACK</kbd></h3>
 
 <div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/luiz-eduardo-rocha-da-silva-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <img src="https://img.shields.io/badge/01_//_FRONTEND_MODULE-8B0000?style=for-the-badge&color=8B0000" alt="Frontend Module">
+  <br><br>
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-000000?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite" alt="Vite">
+  <img src="https://img.shields.io/badge/CHART.JS-000000?style=for-the-badge&logo=chartdotjs" alt="Chart.js">
+
+  <br><br><br>
+
+  <img src="https://img.shields.io/badge/02_//_BACKEND_MODULE-8B0000?style=for-the-badge&color=8B0000" alt="Backend Module">
+  <br><br>
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas" alt="Pandas">
+  <img src="https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy" alt="NumPy">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql" alt="SQL">
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
+
+  <br><br><br>
+
+  <img src="https://img.shields.io/badge/03_//_DEV_TOOLKIT-8B0000?style=for-the-badge&color=8B0000" alt="Dev Toolkit">
+  <br><br>
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+
+
+  <br><br><br>
+
+  <img src="https://img.shields.io/badge/LUIZ_SYSTEM_%3E_ALL_MODULES_LOADED_%E2%9C%93-000000?style=for-the-badge&color=1a1a1a&logoColor=8B0000" alt="System Loaded">
 </div>
+<br>
+
+<br>
+
+
+<h3><span style="color:#8B0000;">03 // TERMINAL</span></h3>
+
+```bash
+> Initializing LUIZ_DEV system...
+
+[ OK ] Developer profile loaded
+[ OK ] Data Science & AI modules activated
+[ OK ] Repositories synchronized successfully
+
+ROLE:        Development Assistant
+STACK:       Python // React // TypeScript // PostgreSQL
+BUILDING:    Applications & Data Analysis
+LEARNING:    Data Science, AI & Systems Development
+STATUS:      ONLINE
+
+> Awaiting next challenge... █
+```
+
+<br>
+
+<h3><span style="color:#8B0000;">04 // FEATURED_PROJECT</span></h3>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/FEATURED_PROJECT-8B0000?style=for-the-badge&labelColor=0D1117" />
+
+  <br/><br/>
+
+  <h3>📊 Interactive Data Analysis Dashboard</h3>
+
+  <p>
+    Interactive application for visual exploration and segmentation<br/>
+    of global tech and data professional data.
+  </p>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+
+  <br/><br/><br/>
+
+  <a href="https://imersao-dados-python-2025-edu.streamlit.app/">
+    <img src="https://img.shields.io/badge/ACCESS_DASHBOARD-8B0000?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117" />
+  </a>
+
+  <br/><br/>
+
+  <code>PROJECT STATUS &gt; ONLINE ✓</code>
+
+</div>
+
+<br>
+<br><br>
+
+<h3><span style="color:#8B0000;"> 05 // PROJECT_ARCHIVE </span></h3>
+</div>
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/DEVELOPER_HISTORY-8B0000?style=for-the-badge&labelColor=0D1117" alt="Developer History" />
+
+  <br><br>
+
+  <p>Projects that were part of my software development evolution.</p>
+
+  <br>
+
+  <a href="https://github.com/O-Edu-Rocha/Calculadora-com-grafico" target="_blank">
+    <img src="https://img.shields.io/badge/Function_Calculator_%26_Graph_Generator-0D1117?style=for-the-badge&logo=react" alt="Function Calculator & Graph Generator" />
+  <br>
+    
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/O-Edu-Rocha/jogo-numero-secreto" target="_blank">
+    <img src="https://img.shields.io/badge/Secret_Number_Guessing_Game-0D1117?style=for-the-badge&logo=javascript" alt="Secret Number Guessing Game" />
+  </a>
+
+  <br><br><br>
+
+  <code>ARCHIVE STATUS &gt; PART OF THE JOURNEY ✓</code>
+</div>
+
+<br><br>
+
+<h3><kbd>06 // SYSTEM_METRICS & 07 // CONTRIBUTION_MATRIX</kbd></h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=O-Edu-Rocha&show_icons=true&theme=radical&title_color=8B0000&text_color=ffffff&icon_color=8B0000&bg_color=0D1117&hide_border=true&border_radius=0" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-Edu-Rocha&theme=radical&fire=8B0000&ring=8B0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B0000&sideLabels=ffffff&dates=ffffff&background=0D1117&hide_border=true&border_radius=0" width="48%" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <code>SYSTEM WARNING &gt; METRICS DEPEND ON EXTERNAL APIs</code>
+</div>
+
+<br><br>
