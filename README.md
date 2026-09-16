@@ -7,7 +7,7 @@
 
 <br>
 
-<h3><span style="color:#FF003C;">01</span> // IDENTIDADE</h3>
+<h1><span style="color:#FF003C;">01</span> // IDENTIDADE</h1>
 
 ```typescript
 const developer = {
@@ -21,7 +21,7 @@ const developer = {
 ```
 
 
-<h3><span style="color:#FF003C;">02</span> // TECH_STACK</kbd></h3>
+<h1><span style="color:#FF003C;">02</span> // TECH_STACK</kbd></h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/01_//_FRONTEND_MODULE-8B0000?style=for-the-badge&color=8B0000" alt="Frontend Module">
@@ -64,7 +64,7 @@ const developer = {
 <br>
 
 
-<h3><span style="color:#8B0000;">03 // TERMINAL</span></h3>
+<h1><span style="color:#8B0000;">03 // TERMINAL</span></h1>
 
 ```bash
 > Initializing LUIZ_DEV system...
@@ -84,7 +84,7 @@ STATUS:      ONLINE
 
 <br>
 
-<h3><span style="color:#8B0000;">04 // FEATURED_PROJECT</span></h3>
+<h1><span style="color:#8B0000;">04 // FEATURED_PROJECT</span></h1>
 
 <br>
 
@@ -122,7 +122,7 @@ STATUS:      ONLINE
 <br>
 <br><br>
 
-<h3><span style="color:#8B0000;"> 05 // PROJECT_ARCHIVE </span></h3>
+<h1><span style="color:#8B0000;"> 05 // PROJECT_ARCHIVE </span></h1>
 </div>
 
 
@@ -152,7 +152,7 @@ STATUS:      ONLINE
 
 <br><br>
 
-<h3><span style="color:#8B0000;">06 // SYSTEM_METRICS</span></h3>
+<h1><span style="color:#8B0000;">06 // SYSTEM_METRICS</span></h1>
 
 <div align="center">
   <!-- Puxa a animação que criamos no arquivo status.svg -->
@@ -161,7 +161,7 @@ STATUS:      ONLINE
 
 <br><br>
 
-<h3><span style="color:#8B0000;">07 // CONTRIBUTION_MATRIX</span></h3>
+<h1><span style="color:#8B0000;">07 // CONTRIBUTION_MATRIX</span></h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/CONTRIBUTION_SYSTEM-8B0000?style=for-the-badge&labelColor=0D1117" alt="Contribution System" />
@@ -176,3 +176,26 @@ STATUS:      ONLINE
 </div>
 
 <br><br>
+
+<h1><span style="color:#8B0000;">08 // CONNECT</span></h1>
+
+<div align="center">
+  <p>System status: Ready for new connections.</p>
+  <br>
+  
+  <a href="https://www.linkedin.com/in/luiz-eduardo-rocha-da-silva-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/oedurocha" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/O-Edu-Rocha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br><br><br>
+
+  <code>COMMUNICATION CHANNELS &gt; OPEN ✓</code>
+</div>
