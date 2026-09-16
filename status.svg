@@ -3,16 +3,24 @@
     .text { font-family: 'Courier New', monospace; fill: #C9D1D9; font-size: 14px; font-weight: bold; }
     .title { fill: #8B0000; font-size: 18px; }
     .footer { fill: #8B0000; font-size: 13px; }
+    
+    /* Animação do status Online */
     .dot { fill: #8B0000; animation: blink 1.5s infinite; }
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
-    .bar1 { animation: fill1 2s ease-out forwards; }
-    .bar2 { animation: fill2 2s ease-out forwards; }
-    .bar3 { animation: fill3 2s ease-out forwards; }
     
-    /* Configuração do "enchimento" das barras */
-    @keyframes fill1 { from { width: 0; } to { width: 380px; } }
-    @keyframes fill2 { from { width: 0; } to { width: 320px; } }
-    @keyframes fill3 { from { width: 0; } to { width: 410px; } }
+    /* Animação do cursor do terminal */
+    .cursor { fill: #8B0000; animation: cursorBlink 1s step-end infinite; }
+    @keyframes cursorBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+    /* Barras em loop */
+    .bar1 { animation: fill1 4s ease-out infinite; }
+    .bar2 { animation: fill2 4s ease-out infinite; }
+    .bar3 { animation: fill3 4s ease-out infinite; }
+    
+    /* Configuração do "enchimento" das barras (chega ao máximo aos 40% do tempo e espera antes de reiniciar) */
+    @keyframes fill1 { 0% { width: 0; } 40%, 100% { width: 380px; } }
+    @keyframes fill2 { 0% { width: 0; } 40%, 100% { width: 320px; } }
+    @keyframes fill3 { 0% { width: 0; } 40%, 100% { width: 410px; } }
   </style>
   
   <!-- Fundo e Borda -->
@@ -29,17 +37,18 @@
   <rect x="270" y="100" width="450" height="12" rx="6" fill="#21262D"/>
   <rect x="270" y="100" width="0" height="12" rx="6" fill="#8B0000" class="bar1"/>
 
-  <!-- Linha 2: Web Dev -> Applications -->
+  <!-- Linha 2: Applications -->
   <text x="35" y="155" class="text">APPLICATIONS</text>
   <rect x="270" y="145" width="450" height="12" rx="6" fill="#21262D"/>
   <rect x="270" y="145" width="0" height="12" rx="6" fill="#8B0000" class="bar2"/>
 
-  <!-- Linha 3: Projeto Atual -> Dashboards -->
+  <!-- Linha 3: Dashboards -->
   <text x="35" y="200" class="text">INTERACTIVE DASHBOARDS</text>
   <rect x="270" y="190" width="450" height="12" rx="6" fill="#21262D"/>
   <rect x="270" y="190" width="0" height="12" rx="6" fill="#8B0000" class="bar3"/>
 
   <!-- Rodapé -->
   <text x="35" y="240" class="text footer">&gt; syncing development modules...</text>
-  <text x="35" y="260" class="text footer">&gt; CODE - ANALYZE - AUTOMATE - EVOLVE</text>
+  <text x="35" y="260" class="text footer">&gt; CODE - ANALYZE - AUTOMATE - EVOLVE <tspan class="cursor">█</tspan></text>
 </svg>
+
