@@ -152,15 +152,27 @@ STATUS:      ONLINE
 
 <br><br>
 
-<h3><kbd>06 // SYSTEM_METRICS & 07 // CONTRIBUTION_MATRIX</kbd></h3>
+<h3><span style="color:#8B0000;">06 // SYSTEM_METRICS</span></h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O-Edu-Rocha&show_icons=true&theme=radical&title_color=8B0000&text_color=ffffff&icon_color=8B0000&bg_color=0D1117&hide_border=true&border_radius=0" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-Edu-Rocha&theme=radical&fire=8B0000&ring=8B0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B0000&sideLabels=ffffff&dates=ffffff&background=0D1117&hide_border=true&border_radius=0" width="48%" alt="GitHub Streak" />
+  <!-- Puxa a animação que criamos no arquivo status.svg -->
+  <img src="status.svg" alt="System Status Animation" />
+</div>
+
+<br><br>
+
+<h3><span style="color:#8B0000;">07 // CONTRIBUTION_MATRIX</span></h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CONTRIBUTION_SYSTEM-8B0000?style=for-the-badge&labelColor=0D1117" alt="Contribution System" />
   
   <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-Edu-Rocha&theme=radical&fire=8B0000&ring=8B0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B0000&sideLabels=ffffff&dates=ffffff&background=0D1117&hide_border=true&border_radius=0" alt="GitHub Streak" />
   
-  <code>SYSTEM WARNING &gt; METRICS DEPEND ON EXTERNAL APIs</code>
+  <br><br>
+
+  <code>CONTRIBUTION MATRIX &gt; ACTIVE DEVELOPMENT MODE ✓</code>
 </div>
 
 <br><br>
