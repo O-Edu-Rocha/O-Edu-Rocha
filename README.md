@@ -12,7 +12,7 @@
 ```typescript
 const developer = {
   name: "Luiz Eduardo",
-  role: "Development Assistant",
+  role: "Software Developer",
   stack: ["Python", "JavaScript", "TypeScript", "React", "PostgreSQL"],
   learning: "Data Science, AI and Systems Development",
   focus: "Software Development & Data Analysis",
@@ -73,7 +73,7 @@ const developer = {
 [ OK ] Data Science & AI modules activated
 [ OK ] Repositories synchronized successfully
 
-ROLE:        Development Assistant
+ROLE:        Software Developer
 STACK:       Python // React // TypeScript // PostgreSQL
 BUILDING:    Applications & Data Analysis
 LEARNING:    Data Science, AI & Systems Development
